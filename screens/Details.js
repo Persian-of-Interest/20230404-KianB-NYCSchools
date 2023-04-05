@@ -73,7 +73,8 @@ const Details = (props) => {
 export default Details;
 
 const styles = StyleSheet.create({
-
+//given more time, I would add much more styling to this page, including a generic image, 
+//better formatting, and perhaps a map location using the provided coordinates
   card: {
     width: '97%',
     alignSelf: 'center',
