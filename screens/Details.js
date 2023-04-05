@@ -25,14 +25,6 @@ const Details = (props) => {
       .then(setLoading(false)); //stop loading
   }, [])
 
-
-
-
-
-
-
-
-
   return (
     <ScrollView>
       <SafeAreaView>
