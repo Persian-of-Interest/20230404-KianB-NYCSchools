@@ -1,4 +1,4 @@
-# 20230404-KianBonakdar-NYCSchools
+# 20230404-KianB-NYCSchools
 
 The home page displays a list of schools from: https://data.cityofnewyork.us/resource/s3k6-pzi2.json
 
